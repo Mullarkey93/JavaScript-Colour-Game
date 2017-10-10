@@ -10,7 +10,6 @@ var resetButton = document.querySelector('#reset');
 var modeButtons = document.querySelectorAll(".mode");
 
 resetButton.addEventListener("click", function(){
-	console.log('dsd');
 	reset();
 });
 
